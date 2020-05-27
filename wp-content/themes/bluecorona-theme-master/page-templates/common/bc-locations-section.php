@@ -1,0 +1,14 @@
+<div class="container-fluid bc_locations_container bc_home_section_bg mt-5">
+    <div class="container ">
+        <div class="row">
+            <div class="col-md-12 col-lg-7 col-sm-12 mt-5 text-center">
+                <h2 class="text-center bc_color_secondary text-capitalize bc_font_alt_1 bc_text_xlight">Local Charlotte Heating & Cooling</h2>
+                <span class="text-center my-3 bc_text_18 bc_color_warning">CHARLOTTE • MATTHEWS • GASTONIA • MT. HOLLY • CONCORD</span>
+                <p class="mb-0 text-dark" style="line-height: 34px !important;  height: 210px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+            </div>
+            <div class="wrench-man col-lg-5 position-absolute d-none d-lg-block">
+            <img class="img-fluid" src="<?php echo get_template_directory_uri();?>/img/wrench_man.png" style="height: 433px">
+            </div>
+        </div>
+    </div>
+</div>
